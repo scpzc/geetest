@@ -1,12 +1,12 @@
 <?php
 
-namespace Scpzc\Geetest;
+namespace Scpzc;
 /**
  * 极验行为式验证安全平台，php 网站主后台包含的库文件
  *
  * @author Tanxu
  */
-class GeetestLib
+class Geetest
 {
     const GT_SDK_VERSION = 'php_3.0.0';
 

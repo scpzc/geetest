@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Scpzc\\Geetest\\": "lib/"
+            "Scpzc\\": "lib/"
         }
     },
     "license": "MIT"
