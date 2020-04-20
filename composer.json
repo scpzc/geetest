@@ -1,0 +1,19 @@
+{
+    "name": "scpzc/geetest",
+    "description": "专用工具包geetest",
+    "authors": [
+        {
+            "name": "tanxu1993",
+            "email": "tanxu1993@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Scpzc\\Geetest\\": "lib/"
+        }
+    },
+    "license": "MIT"
+}
