@@ -265,5 +265,6 @@ class Geetest
     private function triggerError($err)
     {
         // trigger_error($err);
+        //  去掉报错
     }
 }
