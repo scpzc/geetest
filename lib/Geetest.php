@@ -264,6 +264,6 @@ class Geetest
      */
     private function triggerError($err)
     {
-        trigger_error($err);
+        // trigger_error($err);
     }
 }
