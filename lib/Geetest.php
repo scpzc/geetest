@@ -124,7 +124,7 @@ class Geetest
         if ($obj === false) {
             return 0;
         }
-        if ($obj['seccode'] == md5($seccode)) {
+        if (isset($obj['seccode']) && $obj['seccode'] == md5($seccode)) {
             return 1;
         } else {
             return 0;
